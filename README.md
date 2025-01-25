@@ -1,108 +1,63 @@
-                                                                                                                 
-                                                                                                                 
-                                                 =+**+++   +++++                                                 
-                                                +***#***#*#********                                               
-                                            +*++**########*#######****                                            
-                                         ++++#*#**#####****####%##%#*##*#                                         
-                                        +****#####%%####*#%%%##%%##%######                                        
-                                      =+*+*#**#######%%%#%%%%#%####%%##%%##                                       
-                                    +**+*##%+#%%%%%%#%%###%#%#%#%%#%%%#%%%%%*                                     
-                                ++***%#*#*#%%%%@%%%##%##%##%%%%%##%%%%%%%%%%#**                                   
-                            =+++++*###**#%#%%%%%%**%%%%%%%%%@@@%%#%%%@@@@%%%%%%#%                                 
-                             ++*####%%%%%%###%%##%%%%%%#%@@%%%%%%@%@@@@@@@@@@%%%                                  
-                            +*+*##%%%#%%#%#%##%*###%%%%%%@@@%@@@%@@@@@@@@@@@@@@%#%%%%                             
-                            +**###%%%#%%%%%%%%%#*#%%@%%%%%%@@@@@@@@@@@@@@@@@@@@@@%%%                              
-                           ++*#*###%%%%%%%###%%%%%%@%%%@@@@@@@@%@@@@@@@@@@@@@@@@%@%%                              
-                         ++*#*###%###*%%#*###%%%%%%@%@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%                              
-                         +*****%%%##%%%#%%%%%%%%%@@@@%#%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%                             
-                         *+**###%#%%%%#%#%#%%%%%%%%%@@%%@@@@@@@@@@%@@@@@@@@@@@@@@@%%%                             
-                         +++###*##%@@%###%%%%%%%%%%%@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%                             
-                          *#%##%#%%@@@@%#*+**%%%%%%%@@@%%@@@@@@@@@%%%%%@@@@@@@@@@@%%                              
-                         *#***###%%%%@%%#=--=++#%%%%%@@%%%%@%%%%%%%%%%%%%@@@@@@@%%%%%                             
-                           *+####%%%@@%*+-----==+*##%%%%%%%%%%%%%%%%%%%%%@@@@@@@%%%%%                             
-                           +**+##%%%%%#*=::::-=+**###%%%%%%%%%%%%%%%%%%#%%@@@@@@@@%%%                             
-                           +***#*##%%#*+-:-=*#%%%%%%%%%%%%%%%%%%%%%%%%%##%@@@%%@@%%%%                             
-                          ++*****+**%*+=-=*##%%%%%%%%%%%%%%%%%@@@%%%%#%%##@@%#%#%%% @                             
-                          ******+=-+#+=:-*%+*%@@@%@%%%%#%%%%%@@@@@%%%%%###%%##%%%#                                
-                               **--=+=:::=---+#%%%%%%%#-=#%%%%%%%%%%%%%%##%%%%%%%                                 
-                                *+*#+-:::::==#%%%%%##*::-#%%%%%%%%%%%%%%##%%%%##%                                 
-                                *=**--::::::::--====::..:+#%%%%%%%########%%%#*                                   
-                               **+-:+-:::..::-=**##-:...:+##%%%%##############*                                   
-                               ***=::::::::-=*###%#-...:=######%%%############**                                  
-                               ##*#=:.::--=+###%%##*+*+=+####%%%%%%%##########**                                  
-                                  #####---+*#%%%%#*=-=*##%%%%%%%%%%%@%######   +                                  
-                                    #**=---=#%%#+=+*####%%%###%%@@%%%%####                                        
-                                    ##**----+#%%%@%#***++++***#@%%%%%#####                                        
-                                      ##*---=+##+--=*****###%%%%#%%%####                                         
-                                        #+-====+=-:--+*#%%%%%###%%%#####                                         
-                                         *:-==-===--=*##%######%%%#####%                                         
-                                          :::-=----==++#%%%%%%%%%###%###                                         
-                                          -::--===-----+###%%####%%%%%#**++                                      
-                                          =:::-===+==++####%%##%%%%%%%#*#*++                                      
-                                          =::::--=+****#%%%#%%%%%%%%%%#**+++=+                                    
-                                        =:::::::::-=*#%%#%%%%%%%%%%%%%%%%*+++==                                  
-                                       -.-*-:::::::-=*#%%%#####%%%%%%%%@@*+====+%#                                
-                                    +-..-%%::::::---+##########%%%%%%%%@@*+===+++%@@%#                            
-                                +===+:...+%=::::----+#########%%%%%%%@%*+=+++++#@@@@@%%#                         
-                             ===+*++=:....=#-::-----+#########%%%%%%@#+++++++*@@@@@@@@@@@%%#                     
-                         +=++******++:.....:**----=+*#########%%%%%%++++++++++#@@@@@@@@@@@@@@@@@@@@%#            
-                    +++************+=.......:=*=-=+*###***##%%%#++++++++++%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%      
-               +************************-.......:::----##+::...:-=+++++++%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%    
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="xMidYMid meet">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" fill="#0099ff">
+    Mohammed Abbas
+  </text>
+</svg>
 
-```  
+# Welcome to My Portfolio Repository! 👋
 
-# Hi there, I'm [Your Name]! :wave:
-
-## :man_technologist: About Me
-I'm a passionate Computing Science student with a knack for solving problems and building creative software solutions. My interests span Android development, AI, data analysis, and cybersecurity.
+## About Me
+I am a passionate and motivated Computing Science student at Thompson Rivers University, graduating in April 2025. With a strong foundation in programming, software development, and data analysis, I strive to solve real-world problems through innovative technology solutions. This repository showcases my skills and academic accomplishments.
 
 ---
 
-## :rocket: Experience
+## 💻 Skills
 
-**Product Demonstrator | CDS at Costco**
-- Engaged with customers, promoted products, and ensured a safe and organized workspace.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> | 
+<a href="mailto:your-email@example.com" target="_blank">Email</a> | 
+<a href="https://github.com/your-github" target="_blank">GitHub</a>
+</p>
 
-**Guest Service Representative | Fairfield by Marriot**
-- Enhanced guest experiences through professional and welcoming interactions.
-
----
-
-## :computer: Skills
-
-**Programming Languages:** Java, Python, C++, C, C#
-
-**Technical Expertise:**
-- Data Structures & Algorithms
-- Android and Mobile App Development
-- Front-end Development (HTML, CSS, JavaScript)
-- Artificial Intelligence and Data Analysis
-
----
-
-## :books: Education
-**Bachelor of Computing Science**
-Thompson Rivers University | Graduation: December 2024
-
----
-
-## :hammer_and_wrench: Notable Projects
-
-**Book Store App**
-- Modern Android app with Firebase authentication and advanced UI/UX.
-
-**Administration Management System**
-- Enterprise-grade data management system in C.
-
-**Movie Rating Prediction**
-- Predictive analytics model using linear regression and Power BI visualizations.
-
----
-
-## :envelope: Contact
-
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **GitHub:** [yourgithub](https://github.com/yourgithub)
-- **LinkedIn:** [yourlinkedin](https://www.linkedin.com/in/yourlinkedin/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+</a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+</p>
 
 ---
