@@ -1,42 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="1" d="M0,96L48,122.7C96,149,192,203,288,229.3C384,256,480,256,576,240C672,224,768,192,864,181.3C960,171,1056,181,1152,197.3C1248,213,1344,235,1392,245.3L1440,256L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+
 # Welcome to My Portfolio Repository! 👋
 
 ## About Me
-I am a passionate and motivated Computing Science student at Thompson Rivers University, graduating in December 2024. With a strong foundation in programming, software development, and data analysis, I strive to solve real-world problems through innovative technology solutions. This repository showcases my projects, skills, and academic accomplishments.
-
----
-
-## 📂 Repository Contents
-Here, you'll find various projects that demonstrate my expertise and interest in computing science and cybersecurity.
-
-### Featured Projects:
-1. **Book Store App (Android Development)**  
-   - Created a modern Android book app with advanced UI/UX.  
-   - Utilized Firebase for user authentication and dynamic data handling.  
-   - Improved user experience with seamless navigation and interactive elements.
-
-2. **Administration Management System**  
-   - Built a C-based system to manage records across sectors like medical and retail.  
-   - Employed file handling techniques for efficient data organization and retrieval.  
-
-3. **Innovative Neural Network Design**  
-   - Developed a custom AI model for generating stippled art with artistic precision.  
-   - Employed advanced training techniques and evaluation metrics for high-quality output.
-
-4. **Movie Rating Prediction (Data Mining Project)**  
-   - Designed a predictive model using Linear Regression for IMDb ratings.  
-   - Enhanced model accuracy through feature engineering and data visualization with Power BI.  
-
-5. **Personal Finance Management Software**  
-   - Contributed to an agile-driven budgeting and investment app with AI-based advice.  
-   - Focused on user-centric features and a freemium monetization model.
-
-6. **Hotel Website Development**  
-   - Built a responsive website with a booking system, event management, and customer support.  
-   - Designed a user-friendly layout to highlight services and amenities effectively.  
-
-7. **Missed Trip Inspection Notification System**  
-   - Developed a telematics-based system to monitor truck trip inspections.  
-   - Integrated real-time data APIs and implemented geofence alert mechanisms.  
+I am a passionate and motivated Computing Science student at Thompson Rivers University, graduating in December 2024. With a strong foundation in programming, software development, and data analysis, I strive to solve real-world problems through innovative technology solutions. This repository showcases my skills and academic accomplishments.
 
 ---
 
