@@ -7,7 +7,7 @@
 # Welcome to My Portfolio Repository! 👋
 
 ## About Me
-I am a passionate and motivated Computing Science student at Thompson Rivers University, graduating in December 2024. With a strong foundation in programming, software development, and data analysis, I strive to solve real-world problems through innovative technology solutions. This repository showcases my skills and academic accomplishments.
+I am a passionate and motivated Computing Science student at Thompson Rivers University, graduating in April 2025. With a strong foundation in programming, software development, and data analysis, I strive to solve real-world problems through innovative technology solutions. This repository showcases my skills and academic accomplishments.
 
 ---
 
