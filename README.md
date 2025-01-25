@@ -1,8 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="xMidYMid meet">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" fill="#0099ff">
-    Mohammed Abbas
-  </text>
-</svg>
+![github-header-image (1)](https://github.com/user-attachments/assets/0e6237c0-e5e7-479f-bf95-194b2e76e472)
 
 # Welcome to My Portfolio Repository! 👋
 
