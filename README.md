@@ -27,7 +27,7 @@
   <details>
     <summary><h3>🌟 Life Beyond Code</h3></summary>
     <p>
-      <img align="right" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd4ZWV1Z2k1Y2t1Z2wxeWsyOW13NmRpbDVpY2JxZXQxb2tzNzB1eiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/h8HmN0UcEKR0xR3m3r/giphy.gif"/>
+      <img align="right" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM5OTJkMzM1ZDMyZDg1ZGE1OTBiYjU0ZmNmMzM4OWM0ZmZhZDA5YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dMLmQfCO7lCA2gX3tw/giphy.gif"/>
       When I'm not working, I enjoy staying active—going to the gym, playing volleyball or soccer, or exploring new places. I believe in keeping a balance between work and personal life to stay motivated and energized.
     </p>
   </details>
