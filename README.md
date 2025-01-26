@@ -8,11 +8,30 @@
 
 <img align="right" width="400" src="https://giffiles.alphacoders.com/297/2970.gif">
 
-I am a fourth-year Computing Science student at Thompson Rivers University and part of the Co-op Program. I have a strong interest in technology and problem-solving, and over the past three years, I have built a solid understanding of computing systems while improving my practical skills through classes and projects.
+<div align="left">
+  <details>
+    <summary><h3>🎓 About Me</h3></summary>
+    <p>
+      I am a fourth-year Computing Science student at Thompson Rivers University and part of the Co-op Program. I have a strong interest in technology and problem-solving, and over the past three years, I have built a solid understanding of computing systems while improving my practical skills through classes and projects.
+    </p>
+  </details>
 
-💡 I am good at solving problems, thinking clearly, and learning new technologies quickly. These skills, along with my time management, have helped me complete tasks successfully, whether working alone or in a team. My goal is to work on meaningful projects, improve my skills, and grow as a cybersecurity and IT professional.
+  <details>
+    <summary><h3>⚡ Professional Skills</h3></summary>
+    <p>
+      <img align="right" width="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtZ2JiZDR0a3pvOGF4OW82OGNhYnBxbXg4Ynl6Mm8yYjBpY3R6eCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+      I am good at solving problems, thinking clearly, and learning new technologies quickly. These skills, along with my time management, have helped me complete tasks successfully, whether working alone or in a team. My goal is to work on meaningful projects, improve my skills, and grow as a cybersecurity and IT professional.
+    </p>
+  </details>
 
-🎯 When I'm not working, I enjoy staying active—going to the gym, playing volleyball or soccer, or exploring new places. I believe in keeping a balance between work and personal life to stay motivated and energized.
+  <details>
+    <summary><h3>🌟 Life Beyond Code</h3></summary>
+    <p>
+      <img align="right" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd4ZWV1Z2k1Y2t1Z2wxeWsyOW13NmRpbDVpY2JxZXQxb2tzNzB1eiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/h8HmN0UcEKR0xR3m3r/giphy.gif"/>
+      When I'm not working, I enjoy staying active—going to the gym, playing volleyball or soccer, or exploring new places. I believe in keeping a balance between work and personal life to stay motivated and energized.
+    </p>
+  </details>
+</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
