@@ -12,7 +12,7 @@
   <details>
     <summary><h3>🎓 About Me</h3></summary>
     <p>
-      I am a fourth-year Computing Science student at Thompson Rivers University and part of the Co-op Program. I have a strong interest in technology and problem-solving, and over the past three years, I have built a solid understanding of computing systems while improving my practical skills through classes and projects.
+      I am a Computing Science graduate who enjoys working with technology and solving problems. Over the past few years, I have learned how computer systems work and built my skills through classes, projects, and hands-on experience.
     </p>
   </details>
 
